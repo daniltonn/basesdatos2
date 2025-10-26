@@ -1,0 +1,27 @@
+{
+  "name": "basesdatos2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniltonn/basesdatos2.git"
+  },
+  "author": "captadevs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/daniltonn/basesdatos2/issues"
+  },
+  "homepage": "https://github.com/daniltonn/basesdatos2#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10",
+    "save": "^2.9.0"
+  }
+}
